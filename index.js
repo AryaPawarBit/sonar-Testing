@@ -26,4 +26,6 @@ function thisIsTest(id) {
 
 console.log(thisIsTest(1));
 
+console.log("Hello Arya");
+
 export default app;
