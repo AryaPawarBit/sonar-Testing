@@ -19,4 +19,11 @@ app.listen(3000, () => {
     console.log('Example app listening on port 3000!');
 }); 
 
+
+function thisIsTest(id) {
+    return id;
+}
+
+console.log(thisIsTest(1));
+
 export default app;
